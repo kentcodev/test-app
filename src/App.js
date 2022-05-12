@@ -10,7 +10,8 @@ const App = () => {
         <img src={logo} className="App-logo" alt="logo" />
         <Counter />
         <p>
-          Edit <code>src/App.js</code> and save to reload.
+          Add an input number and submit button.
+          The input number should be added/subtracted to the counter if submit is clicked.
         </p>
       </header>
     </div>
