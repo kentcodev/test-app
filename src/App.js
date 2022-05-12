@@ -9,8 +9,8 @@ const App = () => {
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <Counter />
-        <p>
-          Add an input number and submit button.
+        <p style={{fontSize: 14}}>
+          1. Add an input number and submit button.
           The input number should be added/subtracted to the counter if submit is clicked.
         </p>
       </header>
